@@ -1,0 +1,27 @@
+{
+  "name": "@koniki/text-editor",
+  "version": "1.0.0",
+  "description": "A simple native WYSIWYG editor for Angular 6+, 7+, 8+. Rich Text editor component for Angular.",   
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14",
+    "@angular/forms": ">=8.0.0 <11",
+    "@angular/platform-browser": ">=8.0.0 <11",
+    "rxjs": "^6.x.x"
+  },
+  "keywords": [
+    "angular",
+    "venkat",
+    "editor",
+    "native",
+    "wysiwyg",
+    "angular-editor",
+    "text-editor",
+    "angular-wysiwyg-editor",
+    "wysiwyg-editor",
+    "rich",
+    "rich text editor"
+  ]
+}
